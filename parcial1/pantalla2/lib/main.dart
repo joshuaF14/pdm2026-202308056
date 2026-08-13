@@ -106,7 +106,7 @@ class _Pantalla2State extends State<Pantalla2> {
                    
                     _buildCreditCard(
                       index: 0,
-                      bgColor: const Color(0xFFCCE852),
+                      bgColor: const Color(0xFFBF33FF),
                       textColor: Colors.black,
                       cardNumber: '•••• 4568',
                       brandWidget: _buildMastercardLogo(),
@@ -116,7 +116,7 @@ class _Pantalla2State extends State<Pantalla2> {
                   
                     _buildCreditCard(
                       index: 1,
-                      bgColor: const Color(0xFF1C1C1E),
+                      bgColor: const Color(0xFF2A98C2),
                       textColor: Colors.white,
                       cardNumber: '•••• 2478',
                       brandWidget: const Text(
@@ -134,7 +134,7 @@ class _Pantalla2State extends State<Pantalla2> {
                 
                     _buildCreditCard(
                       index: 2,
-                      bgColor: const Color(0xFF3A3A3C),
+                      bgColor: const Color(0xFFDA1B1B),
                       textColor: Colors.white,
                       cardNumber: '•••• 9102',
                       brandWidget: const Text(
